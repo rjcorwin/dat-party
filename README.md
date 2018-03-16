@@ -3,7 +3,7 @@ A command for running `dat share` in all folders in the directory that you run t
 
 ```
 npm install -g dat-party
-cd folder-of-folder-i-want-to-share
+cd folder-of-folders-i-want-to-share
 dat-party
 ```
 
