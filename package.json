@@ -1,6 +1,6 @@
 {
   "name": "dat-party",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A command that will dat share all folders in the folder you run dat-party command in.",
   "main": "index.js",
   "scripts": {
