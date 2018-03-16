@@ -10,5 +10,6 @@
     "dat-party": "./index.js"
   },
   "author": "R.J. Steinert",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {}
 }
