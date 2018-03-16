@@ -1,6 +1,6 @@
 {
   "name": "dat-party",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A command that will dat share all folders in the folder you run dat-party command in.",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,14 @@
   "bin": {
     "dat-party": "./index.js"
   },
+  "repository": {
+  "type": "git",
+    "url": "git+https://github.com/rjsteinert/dat-party.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rjsteinert/dat-party/issues"
+  },
+  "homepage": "https://github.com/rjsteinert/dat-party#readme",
   "author": "R.J. Steinert",
   "license": "ISC",
   "dependencies": {}
