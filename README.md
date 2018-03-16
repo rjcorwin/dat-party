@@ -9,3 +9,4 @@ dat-party
 
 ![Screenshot](screenshot.png)
 
+**Warning** I coded this up in an hour. Mileage may vary ;).
