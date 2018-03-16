@@ -1,0 +1,14 @@
+{
+  "name": "dat-party",
+  "version": "0.0.0",
+  "description": "A command that will dat share all folders in the folder you run dat-party command in.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dat-party": "./index.js"
+  },
+  "author": "R.J. Steinert",
+  "license": "ISC"
+}
